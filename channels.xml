@@ -1,151 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <!-- České -->
-  <channel site="m.tv.sms.cz" site_id="%C8T1" lang="cs" xmltv_id="CT1.cz">ČT1</channel>
-  <channel site="m.tv.sms.cz" site_id="%C8T2" lang="cs" xmltv_id="CT2.cz">ČT2</channel>
-  <channel site="m.tv.sms.cz" site_id="%C8T24" lang="cs" xmltv_id="CT24.cz">ČT24</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova" lang="cs" xmltv_id="Nova.cz">Nova</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+International" lang="cs" xmltv_id="NovaInternational.cz">Nova International</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Action" lang="cs" xmltv_id="NovaAction.cz">Nova Action</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Fun" lang="cs" xmltv_id="NovaFun.cz">Nova Fun</channel>
-  <channel site="mujtvprogram.cz" site_id="559" lang="cs" xmltv_id="NovaKrimi.cz">Nova Krimi</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Lady" lang="cs" xmltv_id="NovaLady.cz">Nova Lady</channel>
-  <channel site="m.tv.sms.cz" site_id="Prima" lang="cs" xmltv_id="Prima.cz">Prima</channel>
-  <channel site="m.tv.sms.cz" site_id="Prima+Cool" lang="cs" xmltv_id="PrimaCool.cz">Prima Cool</channel>
-  <channel site="m.tv.sms.cz" site_id="Prima+LOVE" lang="cs" xmltv_id="PrimaLove.cz">Prima Love</channel>
-  <channel site="m.tv.sms.cz" site_id="Prima+Krimi" lang="cs" xmltv_id="PrimaKrimi.cz">Prima Krimi</channel>
-  <channel site="m.tv.sms.cz" site_id="Prima+Star" lang="cs" xmltv_id="PrimaStar.cz">Prima Star</channel>
-  <channel site="m.tv.sms.cz" site_id="Prima+Show" lang="cs" xmltv_id="PrimaShow.cz">Prima Show</channel>
-  <channel site="m.tv.sms.cz" site_id="CNN+Prima+News" lang="cs" xmltv_id="CNNPrimaNews.cz">CNN Prima News</channel>
-  <channel site="m.tv.sms.cz" site_id="Seznam.cz+TV" lang="cs" xmltv_id="SeznamTV.cz">Seznam.cz TV</channel>
-  <channel site="m.tv.sms.cz" site_id="RELAX" lang="cs" xmltv_id="Relax.cz">Relax</channel>
-  <channel site="m.tv.sms.cz" site_id="A11" lang="cs" xmltv_id="A11.cz">A11</channel>
-  <channel site="m.tv.sms.cz" site_id="DVTV+Extra" lang="cs" xmltv_id="DVTVExtra.cz">DVTV Extra</channel>
-  <channel site="m.tv.sms.cz" site_id="Barrandov" lang="cs" xmltv_id="Barrandov.cz">TV Barrandov</channel>
-  <channel site="m.tv.sms.cz" site_id="Kino+Barrandov" lang="cs" xmltv_id="KinoBarrandov.cz">Kino Barrandov</channel>
-  <channel site="m.tv.sms.cz" site_id="Barrandov+Krimi" lang="cs" xmltv_id="BarrandovKrimi.cz">Krimi Barrandov</channel>
-  <!-- Slovenské -->
-  <channel site="m.tv.sms.cz" site_id="STV1" lang="cs" xmltv_id="Jednotka.sk">Jednotka</channel>
-  <channel site="m.tv.sms.cz" site_id="STV2" lang="cs" xmltv_id="Dvojka.sk">Dvojka</channel>
-  <channel site="webtv.sk" site_id="stv_3" lang="sk" xmltv_id="STVR24.sk">STVR 24</channel>
-  <channel site="m.tv.sms.cz" site_id="Mark%EDza" lang="cs" xmltv_id="Markiza.sk">Markíza</channel>
-  <channel site="webtv.sk" site_id="markiza_plus_jedna" lang="sk" xmltv_id="MarkizaPlus1.sk">Markíza +1</channel>
-  <channel site="m.tv.sms.cz" site_id="Mark%EDza+International" lang="cs" xmltv_id="MarkizaInternational.sk">Markíza International</channel>
-  <channel site="m.tv.sms.cz" site_id="Mark%EDza+KLASIK" lang="cs" xmltv_id="MarkizaKlasik.sk">Markíza Klasik</channel>
-  <channel site="m.tv.sms.cz" site_id="Mark%EDza+KRIMI" lang="cs" xmltv_id="MarkizaKrimi.sk">Markíza Krimi</channel>
-  <channel site="m.tv.sms.cz" site_id="JOJ" lang="cs" xmltv_id="JOJ.sk">JOJ</channel>
-  <channel site="m.tv.sms.cz" site_id="JOJ+Plus" lang="cs" xmltv_id="JOJPlus.sk">JOJ Plus</channel>
-  <channel site="m.tv.sms.cz" site_id="JOJ+Family" lang="cs" xmltv_id="JOJFamily.sk">JOJ Family</channel>
-  <channel site="m.tv.sms.cz" site_id="JOJ+24" lang="cs" xmltv_id="JOJ24.sk">JOJ 24</channel>
-  <channel site="m.tv.sms.cz" site_id="Doma" lang="cs" xmltv_id="Doma.sk">Doma</channel>
-  <channel site="m.tv.sms.cz" site_id="TV+DAJTO" lang="cs" xmltv_id="Dajto.sk">Dajto</channel>
-  <channel site="webtv.sk" site_id="nrsr_tv" lang="sk" xmltv_id="NRSRTV.sk">NRSR TV</channel>
-  <channel site="webtv.sk" site_id="zstv" lang="sk" xmltv_id="TelevizieSlovensko.sk">Televízia Slovensko</channel>
-  <!-- Filmové -->
-  <channel site="m.tv.sms.cz" site_id="CS+Film" lang="cs" xmltv_id="CSFilm.cz">CS Film</channel>
-  <channel site="m.tv.sms.cz" site_id="JOJ+Cinema" lang="cs" xmltv_id="JOJCinema.sk">JOJ Cinema</channel>
-  <channel site="m.tv.sms.cz" site_id="Warner+TV" lang="cs" xmltv_id="WarnerTV.cz">Warner TV</channel>
-  <channel site="m.tv.sms.cz" site_id="HBO" lang="cs" xmltv_id="HBO.cz">HBO</channel>
-  <channel site="m.tv.sms.cz" site_id="HBO2" lang="cs" xmltv_id="HBO2.cz">HBO 2</channel>
-  <channel site="m.tv.sms.cz" site_id="HBO3" lang="cs" xmltv_id="HBO3.cz">HBO 3</channel>
-  <channel site="m.tv.sms.cz" site_id="Cinemax" lang="cs" xmltv_id="Cinemax.cz">Cinemax</channel>
-  <channel site="m.tv.sms.cz" site_id="Cinemax+2" lang="cs" xmltv_id="Cinemax2.cz">Cinemax 2</channel>
-  <channel site="m.tv.sms.cz" site_id="Film%2B" lang="cs" xmltv_id="FilmPlus.cz">Film+</channel>
-  <channel site="m.tv.sms.cz" site_id="AMC" lang="cs" xmltv_id="AMC.cz">AMC</channel>
-  <channel site="m.tv.sms.cz" site_id="Epic+Drama" lang="cs" xmltv_id="EpicDrama.cz">Epic Drama</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox" lang="cs" xmltv_id="FilmBox.cz">FilmBox</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox+Premium" lang="cs" xmltv_id="FilmBoxPremium.cz">FilmBox Premium</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox+Extra+HD" lang="cs" xmltv_id="FilmBoxExtra.cz">FilmBox Extra</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox+Stars" lang="cs" xmltv_id="FilmBoxStars.cz">FilmBox Stars</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox+Family" lang="cs" xmltv_id="FilmBoxFamily.cz">FilmBox Family</channel>
-  <channel site="m.tv.sms.cz" site_id="FilmBox+Arthouse" lang="en" xmltv_id="FilmBoxArthouse.cz">FilmBox Arthouse</channel>
-  <channel site="m.tv.sms.cz" site_id="AXN" lang="cs" xmltv_id="AXN.cz">AXN</channel>
-  <channel site="m.tv.sms.cz" site_id="AXN+White" lang="cs" xmltv_id="AXNWhite.cz">AXN White</channel>
-  <channel site="m.tv.sms.cz" site_id="AXN+Black" lang="cs" xmltv_id="AXNBlack.cz">AXN Black</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Cinema" lang="cs" xmltv_id="NovaCinema.cz">Nova Cinema</channel>
-  <channel site="m.tv.sms.cz" site_id="Prima+MAX" lang="cs" xmltv_id="PrimaMax.cz">Prima Max</channel>
-  <!-- Sportovní -->
-  <channel site="m.tv.sms.cz" site_id="Nova+Sport+1" lang="cs" xmltv_id="NovaSport1.cz">Nova Sport 1</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Sport+2" lang="cs" xmltv_id="NovaSport2.cz">Nova Sport 2</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Sport+3" lang="cs" xmltv_id="NovaSport3.cz">Nova Sport 3</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Sport+4" lang="cs" xmltv_id="NovaSport4.cz">Nova Sport 4</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Sport+5" lang="cs" xmltv_id="NovaSport5.cz">Nova Sport 5</channel>
-  <channel site="m.tv.sms.cz" site_id="Nova+Sport+6" lang="cs" xmltv_id="NovaSport6.cz">Nova Sport 6</channel>
-  <channel site="m.tv.sms.cz" site_id="Eurosport+1" lang="cs" xmltv_id="Eurosport1.cz">Eurosport 1</channel>
-  <channel site="m.tv.sms.cz" site_id="Eurosport+2" lang="cs" xmltv_id="Eurosport2.cz">Eurosport 2</channel>
-  <channel site="m.tv.sms.cz" site_id="Sport1" lang="cs" xmltv_id="Sport1.cz">Sport 1</channel>
-  <channel site="m.tv.sms.cz" site_id="Sport2" lang="cs" xmltv_id="Sport2.cz">Sport 2</channel>
-  <channel site="m.tv.sms.cz" site_id="Arena+Sport+1" lang="sk" xmltv_id="ArenaSport1.sk">Arena Sport 1</channel>
-  <channel site="m.tv.sms.cz" site_id="Arena+Sport+2" lang="sk" xmltv_id="ArenaSport2.sk">Arena Sport 2</channel>
-  <channel site="m.tv.sms.cz" site_id="RTVS+%8Aport" lang="cs" xmltv_id="STVRSport.sk">STVR Šport</channel>
-  <channel site="m.tv.sms.cz" site_id="%C8T4+Sport" lang="cs" xmltv_id="CTSport.cz">ČT sport</channel>
-  <channel site="m.tv.sms.cz" site_id="JOJ+%8Aport" lang="cs" xmltv_id="JOJSport.sk">JOJ Šport</channel>
-  <channel site="m.tv.sms.cz" site_id="JOJ+%8Aport+2" lang="cs" xmltv_id="JOJSport2.sk">JOJ Šport 2</channel>
-  <channel site="m.tv.sms.cz" site_id="FightBox" lang="en" xmltv_id="FightBox.cz">FightBox</channel>
-  <channel site="m.tv.sms.cz" site_id="Gametoon+HD+%28hr%29" lang="en" xmltv_id="GameToon.cz">GameToon</channel>
-  <channel site="m.tv.sms.cz" site_id="Auto+Motor+Sport" lang="cs" xmltv_id="AutoMotorSport.cz">Auto Motor Sport</channel>
-  <channel site="m.tv.sms.cz" site_id="Golf+Channel" lang="cs" xmltv_id="GolfChannel.cz">Golf Channel</channel>
-  <channel site="webtv.sk" site_id="gttv" lang="sk" xmltv_id="GTTV.sk">GTTV</channel>
-  <channel site="m.tv.sms.cz" site_id="Red+Bull+TV" lang="cs" xmltv_id="RedBullTV.cz">Red Bull TV</channel>
-  <channel site="m.tv.sms.cz" site_id="Fuel" lang="en" xmltv_id="FuelTV.cz">Fuel TV</channel>
-  <channel site="m.tv.sms.cz" site_id="Fast%26Funbox+HD" lang="cs" xmltv_id="FastFunBox.cz">Fast&amp;FunBox</channel>
-  <!-- Dětské -->
-  <channel site="m.tv.sms.cz" site_id="%C8T+%3AD" lang="cs" xmltv_id="CTDecko.cz">ČT Déčko</channel>
-  <channel site="m.tv.sms.cz" site_id="Lala+TV" lang="cs" xmltv_id="LalaTV.cz">LALA TV</channel>
-  <channel site="m.tv.sms.cz" site_id="Rik+TV" lang="cs" xmltv_id="RikTV.cz">Rik TV</channel>
-  <channel site="m.tv.sms.cz" site_id="Minimax" lang="cs" xmltv_id="Minimax.cz">Minimax</channel>
-  <channel site="m.tv.sms.cz" site_id="Jim+Jam" lang="cs" xmltv_id="JimJam.cz">JimJam</channel>
-  <channel site="m.tv.sms.cz" site_id="Disney+Channel" lang="cs" xmltv_id="DisneyChannel.cz">Disney Channel</channel>
-  <channel site="m.tv.sms.cz" site_id="Disney+Junior" lang="en" xmltv_id="DisneyJunior.cz">Disney Junior</channel>
+  <channel site="m.tv.sms.cz" site_id="%C8T1" lang="cs" xmltv_id="ČT1.HD.sk">ČT1 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="%C8T2" lang="cs" xmltv_id="ČT2.HD.sk">ČT2 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="%C8T+%3AD" lang="cs" xmltv_id="805-ct-:d">ČT Déčko</channel>
+  <channel site="m.tv.sms.cz" site_id="%C8T24" lang="cs" xmltv_id="ČT24.HD.sk">ČT24 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova" lang="cs" xmltv_id="Nova.cz">Nova HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+International" lang="cs" xmltv_id="Nova.International.cz">Nova International HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Cinema" lang="cs" xmltv_id="Nova.Cinema.cz">Nova Cinema HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Action" lang="cs" xmltv_id="Nova.Action.cz">Nova Action HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Fun" lang="cs" xmltv_id="Nova.Fun.cz">Nova Fun HD</channel>
+  <channel site="mujtvprogram.cz" site_id="559" lang="cs" xmltv_id="Nova.Krimi.cz">Nova Krimi HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Lady" lang="cs" xmltv_id="Nova.Lady.cz">Nova Lady HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima" lang="cs" xmltv_id="Prima.cz">Prima HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima" lang="cs" xmltv_id="Prima.SK.cz">Prima SK HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+Cool" lang="cs" xmltv_id="Prima.Cool.cz">Prima Cool HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+Cool" lang="cs" xmltv_id="Prima.COOL.SK.HD.sk">Prima Cool SK HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+MAX" lang="cs" xmltv_id="Prima.MAX.cz">Prima Max HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+LOVE" lang="cs" xmltv_id="Prima.LOVE.cz">Prima Love HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+LOVE" lang="cs" xmltv_id="Prima.LOVE.SK.HD.sk">Prima Love SK HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+Krimi" lang="cs" xmltv_id="Prima.Krimi.cz">Prima Krimi HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+Krimi" lang="cs" xmltv_id="Prima.KRIMI.SK.cz">Prima Krimi SK HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+Star" lang="cs" xmltv_id="Prima.Star.cz">Prima Star HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Prima+Show" lang="cs" xmltv_id="Prima.Show.cz">Prima Show HD</channel>
+  <channel site="m.tv.sms.cz" site_id="CNN+Prima+News" lang="cs" xmltv_id="CNN.Prima.News.HD.sk">CNN Prima News HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Seznam.cz+TV" lang="cs" xmltv_id="Televize.Seznam.HD.sk">Seznam.cz TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="RELAX" lang="cs" xmltv_id="Relax.sk">RELAX</channel>
+  <channel site="m.tv.sms.cz" site_id="A11" lang="cs" xmltv_id="A11.cz">A11 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="DVTV+Extra" lang="cs" xmltv_id="15564-dvtv-extra">DVTV Extra HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Barrandov" lang="cs" xmltv_id="215-barrandov">TV Barrandov</channel>
+  <channel site="m.tv.sms.cz" site_id="Kino+Barrandov" lang="cs" xmltv_id="Barrandov Kino ">Barrandov Kino</channel>
+  <channel site="m.tv.sms.cz" site_id="Barrandov+Krimi" lang="cs" xmltv_id="Barrandov.Krimi.HD.sk">Barrandov Krimi HD</channel>
+  <channel site="m.tv.sms.cz" site_id="STV1" lang="cs" xmltv_id="Jednotka.HD.sk">Jednotka HD</channel>
+  <channel site="m.tv.sms.cz" site_id="STV2" lang="cs" xmltv_id="Dvojka.HD.sk">Dvojka HD</channel>
+  <channel site="webtv.sk" site_id="stv_3" lang="sk" xmltv_id=":24.HD.sk">STVR 24 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Mark%EDza" lang="cs" xmltv_id="8-markiza">Markíza HD</channel>
+  <channel site="webtv.sk" site_id="markiza_plus_jedna" lang="sk" xmltv_id="1335-markiza-+1">Markíza +1 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Mark%EDza+International" lang="cs" xmltv_id="1124-markiza-international">Markíza International HD</channel>
+  <channel site="m.tv.sms.cz" site_id="JOJ" lang="cs" xmltv_id="JOJ.cz">JOJ HD</channel>
+  <channel site="m.tv.sms.cz" site_id="JOJ+Family" lang="cs" xmltv_id="JOJ.Family.cz">JOJ Family HD</channel>
+  <channel site="m.tv.sms.cz" site_id="JOJ+24" lang="cs" xmltv_id="JOJ.24.HD.sk">JOJ 24 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Doma" lang="cs" xmltv_id="Doma.HD.sk">Doma HD</channel>
+  <channel site="m.tv.sms.cz" site_id="TV+DAJTO" lang="cs" xmltv_id="DAJTO.HD.sk">Dajto HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Mark%EDza+KRIMI" lang="cs" xmltv_id="Markíza.KRIMI.HD.sk">Markíza Krimi HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Mark%EDza+KLASIK" lang="cs" xmltv_id="Markíza.Klasik.HD.sk">Markíza Klasik HD</channel>
+  <channel site="m.tv.sms.cz" site_id="JOJ" lang="cs" xmltv_id="Plus.HD.sk">JOJ Plus HD</channel>
+  <channel site="webtv.sk" site_id="nrsr_tv" lang="sk" xmltv_id="15651-tv-nr-sr">NRSR TV HD</channel>
+  <channel site="webtv.sk" site_id="zstv" lang="sk" xmltv_id="15409-zapadoslovenska-televizia">Televízia Slovensko HD</channel>
+  <channel site="m.tv.sms.cz" site_id="CS+Film" lang="cs" xmltv_id="CS.Film.cz">CS Film HD</channel>
+  <channel site="m.tv.sms.cz" site_id="JOJ+Cinema" lang="cs" xmltv_id="JOJ.Cinema.HD.sk">JOJ Cinema HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Warner+TV" lang="cs" xmltv_id="Warner.TV.cz">Warner TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="HBO" lang="cs" xmltv_id="HBO">HBO</channel>
+  <channel site="m.tv.sms.cz" site_id="HBO2" lang="cs" xmltv_id="hbo2">HBO 2</channel>
+  <channel site="m.tv.sms.cz" site_id="HBO3" lang="cs" xmltv_id="hbo3">HBO 3</channel>
+  <channel site="m.tv.sms.cz" site_id="Cinemax" lang="cs" xmltv_id="Cinemax.HD.sk">Cinemax HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Cinemax+2" lang="cs" xmltv_id="Cinemax.2.HD.sk">Cinemax 2 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Film%2B" lang="cs" xmltv_id="Film+.cz">Film+ HD</channel>
+  <channel site="m.tv.sms.cz" site_id="AMC" lang="cs" xmltv_id="AMC.cz">AMC HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Epic+Drama" lang="cs" xmltv_id="Epic.Drama.HD.sk">Epic Drama HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Filmbox" lang="cs" xmltv_id="Filmbox.HD.sk">FilmBox HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Filmbox+Premium" lang="cs" xmltv_id="Filmbox.Premium.HD.sk">FilmBox Premium HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Filmbox+Extra+HD" lang="cs" xmltv_id="Filmbox.Extra.HD.sk">FilmBox Extra HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Filmbox+Stars" lang="cs" xmltv_id="Filmbox.Stars.HD.sk">FilmBox Stars HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Filmbox+Family" lang="cs" xmltv_id="Filmbox.Family.cz">FilmBox Family</channel>
+  <channel site="m.tv.sms.cz" site_id="FilmBox+Arthouse" lang="en" xmltv_id="FilmBox.Arthouse.cz">FilmBox Arthouse</channel>
+  <channel site="m.tv.sms.cz" site_id="AXN" lang="cs" xmltv_id="AXN.cz">AXN HD</channel>
+  <channel site="m.tv.sms.cz" site_id="AXN+White" lang="cs" xmltv_id="AXN.White.cz">AXN White</channel>
+  <channel site="m.tv.sms.cz" site_id="AXN+Black" lang="cs" xmltv_id="AXN.Black.cz">AXN Black</channel>
+  <channel site="m.tv.sms.cz" site_id="%C8T4+Sport" lang="cs" xmltv_id="ČT.sport.cz">ČT sport HD</channel>
+  <channel site="m.tv.sms.cz" site_id="JOJ+%8Aport" lang="cs" xmltv_id="JOJ.ŠPORT.HD.sk">JOJ Šport HD</channel>
+  <channel site="m.tv.sms.cz" site_id="JOJ+%8Aport+2" lang="cs" xmltv_id="JOJ.Šport.2.cz">JOJ Šport 2 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="RTVS+%8Aport" lang="cs" xmltv_id=":ŠPORT.HD.sk">RTVS Šport HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Sport+1" lang="cs" xmltv_id="Nova.Sport.1.HD.sk">Nova Sport 1 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Sport+2" lang="cs" xmltv_id="Nova.Sport.2.HD.sk">Nova Sport 2 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Sport+3" lang="cs" xmltv_id="Nova.Sport.3.HD.sk">Nova Sport 3 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Sport+4" lang="cs" xmltv_id="Nova.Sport.4.HD.sk">Nova Sport 4 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Sport+5" lang="cs" xmltv_id="Nova.Sport.5.HD.sk">Nova Sport 5 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nova+Sport+6" lang="cs" xmltv_id="Nova Sport 6 ">Nova Sport 6 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Eurosport+1" lang="cs" xmltv_id="Eurosport.1.cz">Eurosport 1 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Eurosport+2" lang="cs" xmltv_id="Eurosport.2.cz">Eurosport 2 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Sport1" lang="cs" xmltv_id="75-sport1">Sport 1 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Sport2" lang="cs" xmltv_id="Sport2.HD.sk">Sport 2 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Arena+Sport+1" lang="sk" xmltv_id="Arena.Sport.1.HD.sk">Arena Sport 1 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Arena+Sport+2" lang="sk" xmltv_id="Arena.Sport.2.HD.sk">Arena Sport 2 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Auto+Motor+Sport" lang="cs" xmltv_id="Auto.Motor.Sport.HD.sk">Auto Motor Sport HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Golf+Channel" lang="cs" xmltv_id="Golf.Channel.HD.sk">Golf Channel HD</channel>
+  <channel site="m.tv.sms.cz" site_id="FightBox" lang="en" xmltv_id="Fightbox.HD.sk">FightBox HD</channel>
+  <channel site="webtv.sk" site_id="gttv" lang="sk" xmltv_id="GTTV.cz">GTTV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Fast%26Funbox+HD" lang="cs" xmltv_id="983-fastfunbox-hd">Fast Fun Box</channel>
+  <channel site="m.tv.sms.cz" site_id="Gametoon+HD+%28hr%29" lang="en" xmltv_id="Gametoon.HD.(hr).cz">GameToon HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Fuel" lang="en" xmltv_id="723-fuel">Fuel TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Red+Bull+TV" lang="cs" xmltv_id="redbulltv">Red Bull TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="National+Geographic+HD" lang="cs" xmltv_id="NGC.HD.sk">National Geographic HD</channel>
+  <channel site="m.tv.sms.cz" site_id="National+Geographic+Wild" lang="cs" xmltv_id="NGC.Wild.HD.sk">National Geographic Wild HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Love+Nature" lang="cs" xmltv_id="Love.Nature.HD.sk">Love Nature HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Viasat+Nature" lang="cs" xmltv_id="Viasat.Nature.HD.sk">Viasat Nature HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Animal+Planet" lang="cs" xmltv_id="Animal.Planet.HD.sk">Animal Planet HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Viasat+History" lang="cs" xmltv_id="Viasat.History.HD.sk">Viasat History HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Viasat+Explore" lang="cs" xmltv_id="Viasat.Explore.HD.sk">Viasat Explore HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Discovery+Channel" lang="cs" xmltv_id="Discovery.Channel.HD.sk">Discovery HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Spektrum" lang="cs" xmltv_id="Spektrum.cz">Spektrum HD</channel>
+  <channel site="m.tv.sms.cz" site_id="History+Channel" lang="cs" xmltv_id="History.HD.sk">History HD</channel>
+  <channel site="m.tv.sms.cz" site_id="History2" lang="en" xmltv_id="1022-history2">History 2 HD</channel>
+  <channel site="m.tv.sms.cz" site_id="The+Fishing+and+Hunting" lang="cs" xmltv_id="Fishing.and.Hunting.sk">Fishing &amp; Hunting HD</channel>
+  <channel site="m.tv.sms.cz" site_id="TLC" lang="cs" xmltv_id="TLC.HD.sk">TLC HD</channel>
+  <channel site="m.tv.sms.cz" site_id="ID" lang="cs" xmltv_id="ID.HD.sk">ID HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Crime+and+Investigation" lang="cs" xmltv_id="Crime.and.Inv..sk">Crime and Investigation</channel>
+  <channel site="m.tv.sms.cz" site_id="Travel+Channel" lang="cs" xmltv_id="Travel.Channel.HD.sk">Travel Channel HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Travelxp+HD" lang="cs" xmltv_id="Travel.XP.HD.sk">TravelXP HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Park+TV" lang="cs" xmltv_id="Park.TV.cz">Park TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Nautical+Channel" lang="en" xmltv_id="1176-nautical-channel">Nautical Channel HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Lala+TV" lang="cs" xmltv_id="LaLa.TV.HD.sk">LALA TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Rik+TV" lang="cs" xmltv_id="TV.RiK.HD.sk">Rik TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Minimax" lang="cs" xmltv_id="Minimax.sk">Minimax</channel>
+  <channel site="m.tv.sms.cz" site_id="Jim+Jam" lang="cs" xmltv_id="Jim.Jam.cz">JimJam</channel>
+  <channel site="m.tv.sms.cz" site_id="Disney+Channel" lang="cs" xmltv_id="Disney.Channel.sk">Disney Channel</channel>
+  <channel site="m.tv.sms.cz" site_id="Disney+Junior" lang="en" xmltv_id="567-disney-junior">Disney Junior</channel>
   <channel site="m.tv.sms.cz" site_id="Nickelodeon" lang="cs" xmltv_id="Nickelodeon.cz">Nickelodeon</channel>
   <channel site="m.tv.sms.cz" site_id="Nicktoons" lang="cs" xmltv_id="Nicktoons.cz">Nicktoons</channel>
-  <channel site="m.tv.sms.cz" site_id="Nick+Jr." lang="cs" xmltv_id="NickJr.cz">Nick Jr.</channel>
-  <channel site="m.tv.sms.cz" site_id="ducktv" lang="cs" xmltv_id="DuckTV.sk">Duck TV</channel>
-  <!-- Dokumentární -->
-  <channel site="m.tv.sms.cz" site_id="Love+Nature" lang="cs" xmltv_id="LoveNature.cz">Love Nature</channel>
-  <channel site="m.tv.sms.cz" site_id="National+Geographic+HD" lang="cs" xmltv_id="NatGeo.cz">Nat Geo</channel>
-  <channel site="m.tv.sms.cz" site_id="National+Geographic+Wild" lang="cs" xmltv_id="NatGeoWild.cz">Nat Geo Wild</channel>
-  <channel site="m.tv.sms.cz" site_id="Animal+Planet" lang="cs" xmltv_id="AnimalPlanet.cz">Animal Planet</channel>
-  <channel site="m.tv.sms.cz" site_id="Viasat+Nature" lang="cs" xmltv_id="ViasatNature.cz">Viasat Nature</channel>
-  <channel site="m.tv.sms.cz" site_id="Viasat+History" lang="cs" xmltv_id="ViasatHistory.cz">Viasat History</channel>
-  <channel site="m.tv.sms.cz" site_id="Viasat+Explore" lang="cs" xmltv_id="ViasatExplore.cz">Viasat Explore</channel>
-  <channel site="m.tv.sms.cz" site_id="Discovery+Channel" lang="cs" xmltv_id="Discovery.cz">Discovery</channel>
-  <channel site="m.tv.sms.cz" site_id="Spektrum" lang="cs" xmltv_id="Spektrum.cz">Spektrum</channel>
-  <channel site="m.tv.sms.cz" site_id="History+Channel" lang="cs" xmltv_id="History.cz">History</channel>
-  <channel site="m.tv.sms.cz" site_id="History2" lang="en" xmltv_id="History2.cz">History 2</channel>
-  <channel site="m.tv.sms.cz" site_id="The+Fishing+and+Hunting" lang="cs" xmltv_id="FishingHunting.cz">Fishing &amp; Hunting</channel>
-  <channel site="m.tv.sms.cz" site_id="TLC" lang="cs" xmltv_id="TLC.cz">TLC</channel>
-  <channel site="m.tv.sms.cz" site_id="ID" lang="cs" xmltv_id="ID.cz">ID</channel>
-  <channel site="m.tv.sms.cz" site_id="Crime+and+Investigation" lang="cs" xmltv_id="CrimeInvestigation.cz">Crime + Investigation</channel>
-  <channel site="m.tv.sms.cz" site_id="Travel+Channel" lang="cs" xmltv_id="TravelChannel.cz">Travel Channel</channel>
-  <channel site="m.tv.sms.cz" site_id="Travelxp+HD" lang="cs" xmltv_id="TravelXP.cz">TravelXP</channel>
-  <channel site="m.tv.sms.cz" site_id="Park+TV" lang="cs" xmltv_id="ParkTV.cz">Park TV</channel>
-  <channel site="m.tv.sms.cz" site_id="Nautical+Channel" lang="en" xmltv_id="NauticalChannel.cz">Nautical Channel</channel>
-  <!-- Hudební -->
-  <channel site="m.tv.sms.cz" site_id="%D3%E8ko" lang="cs" xmltv_id="Ocko.cz">Óčko</channel>
-  <channel site="m.tv.sms.cz" site_id="%D3%E8ko+Expres" lang="cs" xmltv_id="OckoExpres.cz">Óčko Express</channel>
-  <channel site="m.tv.sms.cz" site_id="%D3%E8ko+Star" lang="cs" xmltv_id="OckoStar.cz">Óčko Star</channel>
-  <channel site="m.tv.sms.cz" site_id="%D3%E8ko+Black" lang="cs" xmltv_id="OckoBlack.cz">Óčko Black</channel>
-  <channel site="m.tv.sms.cz" site_id="%8Al%E1gr+Origin%E1l" lang="cs" xmltv_id="SlagrOriginal.cz">Šlágr Original</channel>
-  <channel site="m.tv.sms.cz" site_id="%8Al%E1gr+Muzika" lang="cs" xmltv_id="SlagrMuzika.cz">Šlágr Muzika</channel>
-  <channel site="m.tv.sms.cz" site_id="MTV+Live" lang="en" xmltv_id="MTVLive.cz">MTV Live</channel>
-  <channel site="m.tv.sms.cz" site_id="Deluxe+Music" lang="cs" xmltv_id="DeluxeMusic.cz">Deluxe Music</channel>
-  <channel site="m.tv.sms.cz" site_id="SENZI" lang="cs" xmltv_id="Senzi.cz">Senzi</channel>
-  <channel site="m.tv.sms.cz" site_id="Music+Box" lang="cs" xmltv_id="MusicBox.sk">Music Box</channel>
-  <!-- Ostatní -->
-  <channel site="m.tv.sms.cz" site_id="Paprika" lang="cs" xmltv_id="TVPaprika.cz">TV Paprika</channel>
-  <channel site="m.tv.sms.cz" site_id="Food+Network" lang="en" xmltv_id="FoodNetwork.cz">Food Network</channel>
-  <channel site="m.tv.sms.cz" site_id="M%F2au+TV" lang="cs" xmltv_id="MnauTV.cz">Mňau TV</channel>
-  <channel site="m.tv.sms.cz" site_id="Spektrum+Home" lang="cs" xmltv_id="SpektrumHome.cz">Spektrum Home</channel>
-  <channel site="m.tv.sms.cz" site_id="FashionTV" lang="en" xmltv_id="FashionTV.cz">Fashion TV</channel>
-  <channel site="m.tv.sms.cz" site_id="FashionBox+HD" lang="cs" xmltv_id="FashionBox.cz">FashionBox</channel>
-  <channel site="m.tv.sms.cz" site_id="TV+Doktor" lang="cs" xmltv_id="TVDoktor.cz">TV Doktor</channel>
-  <channel site="m.tv.sms.cz" site_id="HaHa+TV" lang="cs" xmltv_id="HahaTV.cz">HAHA TV</channel>
-  <channel site="m.tv.sms.cz" site_id="Skvele+TV" lang="cs" xmltv_id="SkveleTV.cz">Skvělé TV</channel>
-  <channel site="m.tv.sms.cz" site_id="BBC+World+News" lang="en" xmltv_id="BBCNews.uk">BBC News</channel>
-  <channel site="m.tv.sms.cz" site_id="Sky+news" lang="en" xmltv_id="SkyNews.uk">Sky News</channel>
-  <channel site="m.tv.sms.cz" site_id="France24+EN" lang="en" xmltv_id="France24.fr">France 24</channel>
-  <channel site="m.tv.sms.cz" site_id="PRAHA+TV" lang="cs" xmltv_id="PrahaTV.cz">Praha TV</channel>
-  <channel site="m.tv.sms.cz" site_id="TV+Brno+1" lang="cs" xmltv_id="TVBrno1.cz">TV Brno 1</channel>
-  <channel site="webtv.sk" site_id="lux" lang="sk" xmltv_id="TVLux.sk">TV Lux</channel>
+  <channel site="m.tv.sms.cz" site_id="Nick+Jr." lang="cs" xmltv_id="572-nick-jr">Nick Jr.</channel>
+  <channel site="m.tv.sms.cz" site_id="ducktv" lang="cs" xmltv_id="150-ducktv">Duck TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="ducktv" lang="cs" xmltv_id="1323-ducktv-plus">Duck TV Plus HD</channel>
+  <channel site="m.tv.sms.cz" site_id="SENZI" lang="cs" xmltv_id="SENZI.cz">Senzi HD</channel>
+  <channel site="m.tv.sms.cz" site_id="%8Al%E1gr+Origin%E1l" lang="cs" xmltv_id="Šlágr.Originál.cz">Šlágr Original HD</channel>
+  <channel site="m.tv.sms.cz" site_id="%8Al%E1gr+Muzika" lang="cs" xmltv_id="Šlágr.Muzika.cz">Šlágr Muzika HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Music+Box" lang="cs" xmltv_id="Music.Box.Classic.cz">Music Box Classic HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Music+Box" lang="cs" xmltv_id="Music.Box.Hits.cz">Music Box Hits HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Music+Box" lang="cs" xmltv_id="Music.Box.Dance.cz">Music Box Dance HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Music+Box" lang="cs" xmltv_id="Music.Box.Sexy.cz">Music Box Sexy HD</channel>
+  <channel site="m.tv.sms.cz" site_id="MTV+Live" lang="en" xmltv_id="525-mtv-live">MTV Live HD</channel>
+  <channel site="m.tv.sms.cz" site_id="%D3%E8ko" lang="cs" xmltv_id="Óčko.HD.sk">Óčko HD</channel>
+  <channel site="m.tv.sms.cz" site_id="%D3%E8ko+Expres" lang="cs" xmltv_id="Óčko.Expres.HD.sk">Óčko Expres HD</channel>
+  <channel site="m.tv.sms.cz" site_id="%D3%E8ko+Star" lang="cs" xmltv_id="736-ocko-star">Óčko Star HD</channel>
+  <channel site="m.tv.sms.cz" site_id="%D3%E8ko+Black" lang="cs" xmltv_id="1242-ocko-black">Óčko Black HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Deluxe+Music" lang="cs" xmltv_id="584-deluxe-music">Deluxe Music HD</channel>
+  <channel site="m.tv.sms.cz" site_id="HaHa+TV" lang="cs" xmltv_id="1363-haha-tv">HAHA TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="M%F2au+TV" lang="cs" xmltv_id="1148-mnau-tv">Mňau TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Paprika" lang="cs" xmltv_id="Paprika.cz">TV Paprika HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Food+Network" lang="en" xmltv_id="Food.Network.HD.sk">Food Network HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Spektrum+Home" lang="cs" xmltv_id="Spektrum.Home.HD.sk">Spektrum Home HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Skvele+TV" lang="cs" xmltv_id="Skvelé.TV.cz">Skvelé TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="FashionBox+HD" lang="cs" xmltv_id="734-fashionbox-hd">FashionBox HD</channel>
+  <channel site="m.tv.sms.cz" site_id="PRAHA+TV" lang="cs" xmltv_id="889-praha-tv">Praha TV HD</channel>
+  <channel site="m.tv.sms.cz" site_id="TV+Brno+1" lang="cs" xmltv_id="1190-tv-brno-1">TV Brno HD</channel>
+  <channel site="webtv.sk" site_id="lux" lang="sk" xmltv_id="Lux.TV.HD.sk">TV Lux HD</channel>
 </channels>
