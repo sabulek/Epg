@@ -57,11 +57,11 @@
   <channel site="m.tv.sms.cz" site_id="Film%2B" lang="cs" xmltv_id="Film+.cz">Film+ HD</channel>
   <channel site="m.tv.sms.cz" site_id="AMC" lang="cs" xmltv_id="AMC.cz">AMC HD</channel>
   <channel site="m.tv.sms.cz" site_id="Epic+Drama" lang="cs" xmltv_id="Epic.Drama.HD.sk">Epic Drama HD</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox" lang="cs" xmltv_id="Filmbox.HD.sk">FilmBox HD</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox+Premium" lang="cs" xmltv_id="Filmbox.Premium.HD.sk">FilmBox Premium HD</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox+Extra+HD" lang="cs" xmltv_id="Filmbox.Extra.HD.sk">FilmBox Extra HD</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox+Stars" lang="cs" xmltv_id="Filmbox.Stars.HD.sk">FilmBox Stars HD</channel>
-  <channel site="m.tv.sms.cz" site_id="Filmbox+Family" lang="cs" xmltv_id="Filmbox.Family.cz">FilmBox Family</channel>
+  <channel site="mujtvprogram.cz" site_id="64" lang="cs" xmltv_id="Filmbox.HD.sk">FilmBox HD</channel>
+  <channel site="mujtvprogram.cz" site_id="397" lang="cs" xmltv_id="Filmbox.Premium.HD.sk">FilmBox Premium HD</channel>
+  <channel site="mujtvprogram.cz" site_id="121" lang="cs" xmltv_id="Filmbox.Extra.HD.sk">FilmBox Extra HD</channel>
+  <channel site="mujtvprogram.cz" site_id="65" lang="cs" xmltv_id="Filmbox.Stars.HD.sk">FilmBox Stars HD</channel>
+  <channel site="mujtvprogram.cz" site_id="271" lang="cs" xmltv_id="Filmbox.Family.cz">FilmBox Family</channel>
   <channel site="m.tv.sms.cz" site_id="FilmBox+Arthouse" lang="en" xmltv_id="FilmBox.Arthouse.cz">FilmBox Arthouse</channel>
   <channel site="m.tv.sms.cz" site_id="AXN" lang="cs" xmltv_id="AXN.cz">AXN HD</channel>
   <channel site="m.tv.sms.cz" site_id="AXN+White" lang="cs" xmltv_id="AXN.White.cz">AXN White</channel>
@@ -143,4 +143,12 @@
   <channel site="m.tv.sms.cz" site_id="PRAHA+TV" lang="cs" xmltv_id="889-praha-tv">Praha TV HD</channel>
   <channel site="m.tv.sms.cz" site_id="TV+Brno+1" lang="cs" xmltv_id="1190-tv-brno-1">TV Brno HD</channel>
   <channel site="webtv.sk" site_id="lux" lang="sk" xmltv_id="Lux.TV.HD.sk">TV Lux HD</channel>
+  <channel site="m.tv.sms.cz" site_id="Canal%2B+Sport" lang="cs" xmltv_id="15412-canal+-sport">Canal+ sport</channel>
+  <channel site="m.tv.sms.cz" site_id="Canal%2B+Sport+2" lang="cs" xmltv_id="15537-canal+-sport-2">Canal+ sport 2</channel>
+  <channel site="m.tv.sms.cz" site_id="Canal%2B+Sport+3" lang="cs" xmltv_id="Canal+ sport 3">Canal+ sport 3</channel>
+  <channel site="m.tv.sms.cz" site_id="Canal%2B+Sport+4" lang="cs" xmltv_id="Canal+ sport 4">Canal+ sport 4</channel>
+  <channel site="m.tv.sms.cz" site_id="Canal%2B+Sport+5" lang="cs" xmltv_id="Canal+ sport 5">Canal+ sport 5</channel>
+  <channel site="m.tv.sms.cz" site_id="Canal%2B+Sport+6" lang="cs" xmltv_id="Canal+ sport 6">Canal+ sport 6</channel>
+  <channel site="m.tv.sms.cz" site_id="Canal%2B+Sport+7" lang="cs" xmltv_id="Canal+ sport 7">Canal+ sport 7</channel>
+  <channel site="m.tv.sms.cz" site_id="Canal%2B+Sport+8" lang="cs" xmltv_id="Canal+ sport 8">Canal+ sport 8</channel>
 </channels>
