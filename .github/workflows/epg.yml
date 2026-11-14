@@ -37,6 +37,11 @@ jobs:
             --timeout=30000 \
             --gzip
 
+      - name: Doplnění názvů kanálů (HD, SK HD...)
+        run: |
+          python3 scripts/add_names.py out/guide.xml
+          gzip -9 -c out/guide.xml > out/guide.xml.gz
+
       - name: Kontrola výsledku
         run: |
           ls -la out
